@@ -63,7 +63,7 @@ This repository contains code for training a Convolutional Neural Network (CNN) 
 
 [Luka Nadiradze]
 
-##Vizualizing results
+## Vizualizing results
 
 ![image](https://github.com/LukaNdr/Birds_Classification/assets/147658141/0a7e15ba-89f1-4670-b453-37414e095a78)
 
